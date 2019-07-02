@@ -1,7 +1,15 @@
 public class Chick {
-	
+	private String name = "Fluffy";
+	{ System.out.println("setting field"); }
+			
 	public Chick() {
-		System.out.println("in constructor");
+		name = "Tiny";
+		System.out.println("setting constructor");
+	}
+	
+	public static void main(String[] args) {
+		Chick c = new Chick();
+		System.out.println(c.name);
 	}
 	
 }
