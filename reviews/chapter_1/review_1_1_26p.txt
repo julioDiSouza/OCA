@@ -1,0 +1,27 @@
+V 01: A,B,E
+X 02: A
+V 03: B,D,E
+V 04: A,B
+X 05: A,C,D
+V 06: E
+X 07: A,C,D,E
+X 08: B,E
+X 09: A,C,D
+X 10: C,E
+X 11: C
+X 12: D,F
+X 13: G
+X 14: E,F
+V 15: A,E
+X 16: G
+X 17: A,C,D
+X 18: C
+X 19: B
+X 20: A,D
+X 21: C
+V 22: B,E
+X 23: C, F
+
+
+
+
