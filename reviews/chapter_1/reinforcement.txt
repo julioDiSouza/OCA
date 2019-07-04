@@ -1,0 +1,38 @@
+Chapter 1
+
+I.
+
+- (package) Atentar se não existem classes repetidas na importação dos pacotes.
+- (package) O nome do pacote representa qualquer pasta abaixo do caminho atual e é case sensitive.
+
+- (preffix) 0b binário, 0x hexadecimal ver onde cabem.
+
+- (constructor) Construtor com retorno é método.
+
+- (private) Atentar para privates no escopo da classe, eles podem ser acessados e o valor "null" na saída do console.
+
+- (primitivos) Não primitivos startam como null.
+
+- (variavel) Variaveis locais nunca são iniciadas, precisam ser iniciadas explicitamente.
+- (variavel) Instance variable X local variable.
+
+- (main) Deve ser canonicamente public static void main().
+- (main) Darargs existe String... = String[].
+- (main) É um método.
+
+- (garbage) Conceitos (Finalize()) e java é livre para escolher se executa ou não.
+
+- (console) AS chamadas java devem ser sem a extação do arquivo.
+- (console) Java pega o nome da classe, não o nome do arquivo.java/ arquivo.class.
+
+- (questoes) Verificar quantas opções de resposta.
+
+II.
+
+- (palavras reservadas) Considerar case sensitive "Public" não é reservada, "public" é.
+
+- (questoes) Prestar atenção no enunciado, ver se ele pede que compile ou não.
+
+- (java) Linguagem java não faz overloading de operators, não possui ponteiros.
+
+- (garbage) Nos desenhos de Garbage Collector, considerar o quadrado desenhado para teste ao invés da variável declarada e se nular já era outro new cria outro quadrado.
