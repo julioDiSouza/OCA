@@ -1,0 +1,26 @@
+X 01 - D
+X 02 - A,B,D,E,F
+V 03 - F
+X 04 - B,D,F
+V 05 - C
+V 06 - F
+V 07 - D
+X 08 - F
+X 09 - A
+X 10 - C
+V 11 - A
+V 12 - D
+X 13 - D
+V 14 - C
+V 15 - E
+V 16 - D
+X 17 - B
+X 18 - B
+V 19 - D
+V 20 - B
+
+
+answers at page 337
+
+
+
